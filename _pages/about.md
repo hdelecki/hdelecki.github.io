@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 In progress
-
-Test Latex $$e^{ix} = \cos{x} + i\sin{x}$$
