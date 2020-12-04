@@ -54,6 +54,8 @@ tr, td, th {
 .custom-table thead {
   background-color: $background-color;
   border-bottom: 1px solid $background-color;
+  border-top: 1px solid $background-color;
+  border-left: 1px solid $background-color;
 }
 
 .custom-table th {
@@ -61,6 +63,7 @@ tr, td, th {
   font-weight: bold;
   text-align: left;
   border-right: 1px solid $background-color;
+  border-left: 1px solid $background-color;
   vertical-align: middle;
 }
 
@@ -68,6 +71,7 @@ tr, td, th {
   padding: 0.5em;
   border-bottom: 1px solid $background-color;
   border-right: 1px solid $background-color;
+  border-left: 1px solid $background-color;
   vertical-align: middle;
 }
 
