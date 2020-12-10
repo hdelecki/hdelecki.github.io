@@ -8,24 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-In progress
-
-
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-{:.custom-table}
-
-
-
-
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+I am a graduate student in Aero/Astro at Stanford University. In my undergraduate studies, I pursued a major in Aerospace Engineering and a minor in Computer Science from Georgia Tech. In 2020, I was awarded the Mathew Isakowitz Fellowship program. I am particularly interested in research topics related to Artificial Intelligence, Guidance/Navigation/Control and Space Domain Awareness.
