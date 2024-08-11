@@ -3,9 +3,14 @@
 <head>
   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {{if hasmath}} {{insert head_katex.html }}     {{end}}
-    {{if hascode}} {{insert head_highlight.html }}   {{end}}
-    {{insert style.html}}
+    
+    
+    <link rel="stylesheet" href="/css/franklin.css">
+<link rel="stylesheet" href="/css/tufte.css">
+<link rel="stylesheet" href="/css/latex.css">
+<link rel="stylesheet" href="/css/adjust.css"> <!-- sheet to overwrite some clashing styles -->
+<link rel="icon" href="/assets/favicon.ico">
+
     <!-- <p style="text-align: center;">Harrison Delecki</p> -->
     <!-- <div class="header">
       <h1>Harrison Delecki</h1>
@@ -40,7 +45,7 @@
       </div> -->
 
       
-    {{isdef title}} <title>{{fill title}}</title>  {{end}}
+     <title>404</title>  
 </head>
 
 <!-- Content appended here -->
@@ -54,3 +59,39 @@
 </div>
 </div> -->
 
+<div class="franklin-content">
+<div style="margin-top: 40px; font-size: 40px; text-align: center;">
+
+  <br>
+
+  <div style="font-weight: bold;">
+    404
+  </div>
+
+  <br>
+  <br>
+
+    The requested page was not found
+
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <div style="margin-bottom: 300px; font-size: 24px">
+    <a href="/">Click here</a> to go back to the homepage.
+  </div>
+
+</div>
+
+<div class="page-foot">
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Harrison Delecki. Last modified: August 11, 2024.
+    Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
+</div>
+</div><!-- CONTENT ENDS HERE -->
+        </div> <!-- end of id=main -->
+    </div> <!-- end of id=layout -->
+    
+    
+  </body>
+</html>
