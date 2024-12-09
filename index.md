@@ -25,6 +25,14 @@ At Stanford I am advised by <a href="https://mykel.kochenderfer.com/">Mykel Koch
 
 ~~~
 <div class="showcase-item">
+<p><strong>Failure Probability Estimation for Black-Box Autonomous Systems using State-Dependent Importance Sampling Proposals
+</strong><a href="https://arxiv.org/abs/2412.02154" class="icon" target="_blank"><img src="./files/file-icon.svg"></a><a href="https://github.com/sisl/SPAIS.jl" class="icon" target="_blank"><img src="./files/github-mark.svg"></a></p>
+<p>Harrison Delecki, Sydney M. Katz, and Mykel J. Kochenderfer</p>
+<p><em>Under review (2024)</em></p></div>
+~~~
+
+~~~
+<div class="showcase-item">
 <p><strong>Diffusion-Based Failure Sampling for Cyber-Physical Systems</strong><a href="https://arxiv.org/abs/2406.14761" class="icon" target="_blank"><img src="./files/file-icon.svg"></a><a href="https://github.com/sisl/DiFS" class="icon" target="_blank"><img src="./files/github-mark.svg"></a></p>
 <p>Harrison Delecki, Marc R. Schlichting, Mansur Arief, Anthony Corso, Marcell Vazquez-Chanlatte, and Mykel J. Kochenderfer</p>
 <p><em>Under review (2024)</em></p></div>
