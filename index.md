@@ -28,28 +28,28 @@ At Stanford I am advised by <a href="https://mykel.kochenderfer.com/">Mykel Koch
 <p><strong>Failure Probability Estimation for Black-Box Autonomous Systems using State-Dependent Importance Sampling Proposals
 </strong><a href="https://arxiv.org/abs/2412.02154" class="icon" target="_blank"><img src="./files/file-icon.svg"></a><a href="https://github.com/sisl/SPAIS.jl" class="icon" target="_blank"><img src="./files/github-mark.svg"></a></p>
 <p>Harrison Delecki, Sydney M. Katz, and Mykel J. Kochenderfer</p>
-<p><em>Under review (2024)</em></p></div>
+<p><em>International Conference on Control, Decision and Information Technologies (CoDIT) 2025</em></p></div>
 ~~~
 
 ~~~
 <div class="showcase-item">
 <p><strong>Diffusion-Based Failure Sampling for Cyber-Physical Systems</strong><a href="https://arxiv.org/abs/2406.14761" class="icon" target="_blank"><img src="./files/file-icon.svg"></a><a href="https://github.com/sisl/DiFS" class="icon" target="_blank"><img src="./files/github-mark.svg"></a></p>
 <p>Harrison Delecki, Marc R. Schlichting, Mansur Arief, Anthony Corso, Marcell Vazquez-Chanlatte, and Mykel J. Kochenderfer</p>
-<p><em>Under review (2024)</em></p></div>
+<p><em>International Conference on Engineering Reliable Autonomous Systems (ERAS) 2025</em></p></div>
 ~~~
 
 ~~~
 <div class="showcase-item">
 <p><strong>Entropy-regularized Point-based Value Iteration</strong><a href="https://arxiv.org/abs/2402.09388" class="icon" target="_blank"><img src="./files/file-icon.svg"></a><a href="https://github.com/hdelecki/EntropyRegularizedPBVI.jl" class="icon" target="_blank"><img src="./files/github-mark.svg"></a></p>
 <p>Harrison Delecki, Marcell Vazquez-Chanlatte, Esen Yel, Kyle Wray, Tomer Arnon, Stefan Witwicki, and Mykel J. Kochenderfer</p>
-<p><em>Under review (2024)</em></p></div>
+<p><em>UInternational Conference on Control, Decision and Information Technologies (CoDIT) 2025</em></p></div>
 ~~~
 
 ~~~
 <div class="showcase-item">
 <p><strong>Deep Normalizing Flows for State Estimation </strong><a href="https://arxiv.org/pdf/2306.15605.pdf" class="icon" target="_blank"><img src="./files/file-icon.svg"></a><a href="https://github.com/sisl/DeepNFStateEstimation" class="icon" target="_blank"><img src="./files/github-mark.svg"></a></p>
 <p>Harrison Delecki, Liam A. Kruse, Marc R. Schlichting, and Mykel J. Kochenderfer</p>
-<p><em>2023 International Conference on Information Fusion</em></p></div>
+<p><em>International Conference on Information Fusion 2023</em></p></div>
 ~~~
 
 ~~~
