@@ -42,7 +42,7 @@ At Stanford I am advised by <a href="https://mykel.kochenderfer.com/">Mykel Koch
 <div class="showcase-item">
 <p><strong>Entropy-regularized Point-based Value Iteration</strong><a href="https://arxiv.org/abs/2402.09388" class="icon" target="_blank"><img src="./files/file-icon.svg"></a><a href="https://github.com/hdelecki/EntropyRegularizedPBVI.jl" class="icon" target="_blank"><img src="./files/github-mark.svg"></a></p>
 <p>Harrison Delecki, Marcell Vazquez-Chanlatte, Esen Yel, Kyle Wray, Tomer Arnon, Stefan Witwicki, and Mykel J. Kochenderfer</p>
-<p><em>UInternational Conference on Control, Decision and Information Technologies (CoDIT) 2025</em></p></div>
+<p><em>International Conference on Control, Decision and Information Technologies (CoDIT) 2025</em></p></div>
 ~~~
 
 ~~~
