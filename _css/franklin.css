@@ -54,14 +54,12 @@ html {
 ================================================================== */
 
 .franklin-content .page-foot a {
-  text-decoration: none;
   color: #a6a2a0;
   text-decoration: underline;
 }
 
 .page-foot {
   font-size: 80%;
-  font-family: Arial, serif;
   color: #a6a2a0;
   text-align: center;
   margin-top: 6em;
@@ -89,7 +87,7 @@ html {
 /* On wide screens, fix content width to a max value. */
 @media (min-width: 940px) {
   .franklin-content {
-    width: 705px;
+    width: 780px;
     margin-left: auto;
     margin-right: auto;
   }
